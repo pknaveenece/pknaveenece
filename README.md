@@ -10,7 +10,7 @@
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-##```java
+```java
 public class NaveenPK {
     String name = "Naveen P K";
     String location = "Salem, Tamil Nadu, India";
